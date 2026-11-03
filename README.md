@@ -1,24 +1,40 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Adilan%20Santos&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"/>
+# Olá, eu sou o Adilan Santos 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Adilan+Santos;Be+Welcome!+:%29)](https://git.io/typing-svg)
+**Software Engineer | Backend & Agentic AI Specialist**
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=adilansantos&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilansantos&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+Sou desenvolvedor backend com forte foco no ecossistema **Python**, construindo APIs de alta performance com **FastAPI**, arquiteturas serverless na **AWS** e sistemas de **Agentic AI / LLM Integrations**. Possuo vasta experiência em modernização de serviços, refatoração de sistemas legados para microsserviços e implementação de pipelines automatizados com testes rigorosos.
 
-<div align="center">  
-  <a href="https://www.instagram.com/adiinegro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/AdilanSantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Logo Adilan HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Logo Adilan CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg">
-    <img align="center" alt="Logo Adilan Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Logo Adilan JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Logo Adilan VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Logo Adilan Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg">
+---
 
-  </div>
+### 🛠 Tech Stack & Ferramentas
 
+- **Linguagens & Frameworks:** Python 3, FastAPI, Flask, Django, SQL (PostgreSQL, MySQL)
+- **IA & Agentes:** LangChain, LLM Integrations, Evals, Agentic Workflows, Pytest Mocks
+- **Cloud & DevOps (AWS):** AWS Lambda, S3, DynamoDB, SQS, CloudWatch, Docker, CI/CD
+- **Bancos de Dados & Caching:** PostgreSQL, MySQL, Redis, DynamoDB
+- **Boas Práticas:** Clean Architecture, TDD, Design Patterns, RESTful APIs
+
+---
+
+### 🚀 Destaques & Projetos
+
+- **AI-Driven Content Pipeline:** Arquitetura assíncrona em FastAPI para automação e geração de scripts via LLMs com cobertura total de testes (`pytest`).
+- **AWS Serverless Integration:** Integração em produção entre plataformas corporativas usando AWS Lambda, SQS e DynamoDB para sincronização de eventos em tempo real.
+- **RESTful API Redesign:** Migração e modernização de automações legadas em Python para microsserviços escaláveis.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AdilanSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilanSantos&layout=compact&theme=tokyonight&hide=html,css"/>
+</p>
+
+---
+
+### 📫 Vamos nos conectar?
+
+- **LinkedIn:** [linkedin.com/in/adilansantos](https://www.linkedin.com/in/adilansantos/)
+- **Portfólio:** [adilansantos.github.io](http://adilansantos.github.io/)
+- **E-mail:** [contatoadilan@hotmail.com](mailto:contatoadilan@hotmail.com)
