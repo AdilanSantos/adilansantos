@@ -1,40 +1,45 @@
-# Olá, eu sou o Adilan Santos 👋
+# Hi there, I'm Adilan Santos 👋 / Olá, eu sou o Adilan Santos!
 
-**Software Engineer | Backend & Agentic AI Specialist**
+**Software Development Engineer | Python & AWS Backend Specialist**
 
-Sou desenvolvedor backend com forte foco no ecossistema **Python**, construindo APIs de alta performance com **FastAPI**, arquiteturas serverless na **AWS** e sistemas de **Agentic AI / LLM Integrations**. Possuo vasta experiência em modernização de serviços, refatoração de sistemas legados para microsserviços e implementação de pipelines automatizados com testes rigorosos.
-
----
-
-### 🛠 Tech Stack & Ferramentas
-
-- **Linguagens & Frameworks:** Python 3, FastAPI, Flask, Django, SQL (PostgreSQL, MySQL)
-- **IA & Agentes:** LangChain, LLM Integrations, Evals, Agentic Workflows, Pytest Mocks
-- **Cloud & DevOps (AWS):** AWS Lambda, S3, DynamoDB, SQS, CloudWatch, Docker, CI/CD
-- **Bancos de Dados & Caching:** PostgreSQL, MySQL, Redis, DynamoDB
-- **Boas Práticas:** Clean Architecture, TDD, Design Patterns, RESTful APIs
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adilansantos)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoadilan@hotmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://adilansantos.github.io/)
 
 ---
 
-### 🚀 Destaques & Projetos
+### 🇬🇧 About Me
+Software Engineer with 4+ years of experience in **Python (FastAPI, Flask)**, specialising in building high-performance APIs, event-driven architectures, and **Agentic AI systems**. 
 
-- **AI-Driven Content Pipeline:** Arquitetura assíncrona em FastAPI para automação e geração de scripts via LLMs com cobertura total de testes (`pytest`).
-- **AWS Serverless Integration:** Integração em produção entre plataformas corporativas usando AWS Lambda, SQS e DynamoDB para sincronização de eventos em tempo real.
-- **RESTful API Redesign:** Migração e modernização de automações legadas em Python para microsserviços escaláveis.
+* 🛠 **Backend & Cloud:** Extensive experience migrating legacy systems to microservices and serverless infrastructure on **AWS (Lambda, S3, SQS, DynamoDB)**.
+* 🤖 **AI Engineering:** Developing AI-driven automation pipelines, integrating LLMs with internal workflows, and implementing evals and reliability guardrails.
+* 🧪 **Engineering Quality:** Strong focus on Clean Code, TDD (`pytest`), Docker containerization, and relational databases (**PostgreSQL, MySQL**).
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🇧🇷 Sobre Mim
+Engenheiro de Software com mais de 4 anos de experiência em **Python (FastAPI, Flask)**, especializado na construção de APIs de alta performance, arquiteturas orientadas a eventos e **sistemas de Agentic AI**.
+
+* 🛠 **Backend & Nuvem:** Ampla experiência na migração de sistemas legados para microsserviços e infraestrutura serverless na **AWS (Lambda, S3, SQS, DynamoDB)**.
+* 🤖 **Engenharia de IA:** Desenvolvimento de pipelines de automação orientados a IA, integração de LLMs a fluxos corporativos e implementação de evals e guardrails de confiabilidade.
+* 🧪 **Qualidade de Engenharia:** Forte domínio de Código Limpo, TDD com `pytest`, conteinerização com Docker e bancos de dados relacionais (**PostgreSQL, MySQL**).
+
+---
+
+### 🛠 Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages & Frameworks** | Python 3, FastAPI, Flask, Django, Asyncio, Pydantic, Selenium |
+| **Cloud & Serverless (AWS)** | AWS Lambda, S3, SQS, DynamoDB, CloudWatch, Docker, CI/CD |
+| **Databases & ORMs** | PostgreSQL, MySQL, SQLite, SQLAlchemy, Redis |
+| **Testing & Quality** | Pytest, TDD, Clean Code, RESTful API Design, Git Flow |
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AdilanSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilanSantos&layout=compact&theme=tokyonight&hide=html,css"/>
+  <img src="https://github-readme-stats-fastapi.vercel.app/api?username=AdilanSantos&show_icons=true&theme=dark&hide_border=false" alt="Adilan's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-fastapi.vercel.app/api/top-langs/?username=AdilanSantos&layout=compact&theme=dark&hide_border=false" alt="Top Languages" height="150" />
 </p>
-
----
-
-### 📫 Vamos nos conectar?
-
-- **LinkedIn:** [linkedin.com/in/adilansantos](https://www.linkedin.com/in/adilansantos/)
-- **Portfólio:** [adilansantos.github.io](http://adilansantos.github.io/)
-- **E-mail:** [contatoadilan@hotmail.com](mailto:contatoadilan@hotmail.com)
